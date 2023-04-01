@@ -26,7 +26,6 @@ Maven 3+
 - клонировать этот репозиторий
 - установите зависимости
 проверить работоспособность можно на POSTMAN
-http://localhost:8080/api/v1/auth/authenticate
 http://localhost:8080/api/v1/auth/register
 регистрация: выбираем POST HTTP запрос, Body, row, выбираем json вместо text(по умолчанию) и пишем следующий пример:
     "firstname": "example",
